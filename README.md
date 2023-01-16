@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=jevolk&show_icons=true&theme=great-gatsby" alt="Github Stats" width="420" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevolk&layout=compact&hide=html&theme=great-gatsby" alt="Most Used Languages" />
+<img src="https://user-images.githubusercontent.com/4682706/212779259-5561e86b-4fa4-46c6-8824-914badeb7851.jpg" alt="Cover" />
